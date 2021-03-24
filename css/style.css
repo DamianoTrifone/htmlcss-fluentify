@@ -160,3 +160,12 @@ h1{
     color: #A9A9A9;
     font-family: 'Roboto', sans-serif;
 }
+
+.immagini{
+    display: inline;   
+}
+
+.immagini-piccole{
+    width: 150px;
+    margin-left: 235px;
+}
