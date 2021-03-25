@@ -166,7 +166,6 @@ h1{
 .sezione_immagini{
     width: 80%;
     margin: 0 auto;
-    /* float: left;     */
     text-align: center;
     overflow: auto;
 }
@@ -226,11 +225,13 @@ p{
         float: left;
         margin: 0 auto;
         margin-left: 15px;
+        overflow: hidden;
 }
 
 .piano_personalizzato{
     width: 30%;
     margin: 0 auto;
+    overflow: hidden;
  
 }
 
@@ -239,4 +240,10 @@ h2{
     letter-spacing: 1px;
 }
 
-
+.container_footer{
+    width: 100%;
+    height: 150px;
+    background-color: #D3D3D3;
+    margin: 0 auto;
+    overflow: hidden;
+}
