@@ -80,7 +80,7 @@ header{
     border: none;
     background-color: #7CBB02;
     border-radius: 1px solid #7CBB02;
-    padding: 6px 20px;
+    padding: 6px 30px;
     text-decoration: none;
     text-transform: uppercase;
     border-radius: 5px;
@@ -98,7 +98,8 @@ header{
     color: white;
     border: none;
     border: 1px solid white;
-    padding: 10px 20px;
+    padding: 20px 25px;
+    margin-right: 7px;
     text-decoration: none;
     text-transform: uppercase;
     border-radius: 5px;
@@ -106,7 +107,7 @@ header{
 }
 
 .buttons-right a{
-    padding: 5px 10px;
+    padding: 5px 18px;
     font-size: 13px;
     line-height: 20px;
     color: white;
@@ -146,7 +147,7 @@ h1{
 
 .centrale{
     position: absolute;
-    top: 20%;
+    top: 30%;
     right: 34%;
     color: black;
     font-family: 'Roboto', sans-serif;
@@ -155,7 +156,7 @@ h1{
 .centrale-2{
     position: absolute;
     font-size: 18px;
-    top: 40%;
+    top: 50%;
     right: 30%;
     color: #A9A9A9;
     font-family: 'Roboto', sans-serif;
@@ -196,11 +197,6 @@ h4{
     color: #96C836;
 }
 
-footer{
-    width: 100%;
-    height: 200px;
-    color: #D3D3D3;
-}
 
 .centrali{
     width: 40px;
@@ -236,8 +232,6 @@ p{
     width: 30%;
     margin: 0 auto;
  
-
-
 }
 
 h2{
