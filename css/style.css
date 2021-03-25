@@ -213,3 +213,36 @@ p{
     color: #BCBCBC;
 }
 
+.schema_basso{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.grafico{
+    width: 400px;
+    margin-top: 8px;
+    margin-left: 150px;
+}
+
+.schema_basso{
+        width: 40%;
+        float: left;
+        margin: 0 auto;
+        margin-left: 15px;
+}
+
+.piano_personalizzato{
+    width: 30%;
+    margin: 0 auto;
+ 
+
+
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+
+
