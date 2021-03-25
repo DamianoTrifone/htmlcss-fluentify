@@ -161,11 +161,51 @@ h1{
     font-family: 'Roboto', sans-serif;
 }
 
-.immagini{
-    display: inline;   
-}
 
 .immagini-piccole{
-    width: 150px;
+    /* width: 150px;
     margin-left: 235px;
+    margin-top: 40px; */
+   /* display: inline; */
+    width: 80%;
+    margin: auto;
 }
+.immagini_left{
+    float: left;
+    /* width: 200px;
+    height: 200px; */
+    /* display: inline; */
+    width: 30%;
+}
+
+.immagini_center{
+    float: left;
+    /* width: 200px;
+    height: 200px; */
+    /* display: inline; */
+    width: 30%;
+}
+
+.immagini_right{
+    float: left;
+    /* width: 200px;
+    height: 200px; */
+    /* display: inline; */
+    width: 30%;
+}
+
+footer{
+    width: 100%;
+    height: 200px;
+    color: #D3D3D3;
+}
+
+/* .scritte_immagine{
+    display: inline;
+    margin-left: 100px;
+    padding-left: 50px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+
+} */
+
