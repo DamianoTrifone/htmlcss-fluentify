@@ -277,3 +277,19 @@ h2{
     font-family: 'Roboto', sans-serif;
 }
 
+#seleziona{
+    position: relative;
+    width: 150px;
+    display: inline-block;
+    text-align: left;
+    line-height: 2;
+    color: grey;
+    border-bottom: 1px solid grey;
+}
+
+#select > i {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: inline-block;
+}
