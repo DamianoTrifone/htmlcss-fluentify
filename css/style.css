@@ -176,26 +176,17 @@ h1{
 }
 
 .immagini_left{
-    /* border: 2px solid #333; */
     float: left;
     padding: 30px 10px;
     margin-left: 25px;
-     width: 31%; /* 30*3 = 90% */
+     width: 31%; 
 }
-
-/* .immagini_left::after{
-    content: "";
-    display: table;
-    clear: both;
-} */
-
 
 h4{
     display: block;
     font-family: 'Roboto', sans-serif;
     color: #96C836;
 }
-
 
 .centrali{
     width: 40px;
@@ -264,10 +255,25 @@ h2{
     text-decoration: none;
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
-    /* color: white;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+.bottoni_bassi{
+    color: white;
     border: none;
     background-color: #7CBB02;
-    border-radius: 1px solid #7CBB02; */
-
+    border-radius: 1px solid #7CBB02;
+    padding: 6px 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 
